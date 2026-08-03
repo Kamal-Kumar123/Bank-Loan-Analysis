@@ -1,4 +1,3 @@
-![Screenshot 2024-06-17 112434](https://github.com/virajbhutada/Bank-Loan-Analysis-SQL-PowerBI-Excel-Tableau/assets/143819712/4ffedfcb-7fb7-436c-94d6-2dd5d39dbe94)
 
 # Bank Loan Portfolio Assessment
 
@@ -36,7 +35,7 @@ This project undertakes a comprehensive analysis of bank loan data, leveraging S
 
 ## Data Source
 
-The project is based on a comprehensive [dataset](https://github.com/virajbhutada/Bank-Loan-Analysis-SQL-PowerBI-Excel-Tableau/blob/main/data/financial_loan.csv) stored in SQL Server, encompassing various aspects of bank loans, including loan amounts, issue dates, interest rates, DTI ratios, and loan statuses.
+The project is based on a comprehensive dataset stored in SQL Server, encompassing various aspects of bank loans, including loan amounts, issue dates, interest rates, DTI ratios, and loan statuses.
 
 ---
 
@@ -201,18 +200,18 @@ Dive deeper into our bank loan analysis project with our interactive data visual
     git clone https://github.com/yourusername/bank-loan-analysis.git
     ```
 2. **Database Setup**:
-    - Use the provided [SQL](https://github.com/virajbhutada/Bank-Loan-Analysis-SQL-PowerBI-Excel-Tableau/blob/main/sql/loan_queries.sql) script to set up the database in SQL Management Server.
+    - Use the provided SQL script to set up the database in SQL Management Server.
     - Import the loan dataset into the created database.
 
 3. **Excel Setup**:
-    - Open the provided [Excel file](https://github.com/virajbhutada/Bank-Loan-Analysis-SQL-PowerBI-Excel-Tableau/blob/main/excel/loan_data_analysis.xlsx) to review preliminary analyses and data processing steps.
+    - Open the provided Excel file to review preliminary analyses and data processing steps.
 
 4. **Power BI Setup**:
-    - Open the provided [Power BI](https://github.com/virajbhutada/Bank-Loan-Analysis-SQL-PowerBI-Excel-Tableau/blob/main/powerBI/bank_loan_data_insights.pbix) file.
+    - Open the provided Power BI file.
     - Connect the BI file to your SQL Server database.
 
 5. **Tableau Setup**:
-    - Open the provided [Tableau](https://github.com/virajbhutada/Bank-Loan-Analysis-SQL-PowerBI-Excel-Tableau/blob/main/tableau/bank_loan_data_viz.twbx) workbook.
+    - Open the provided Tableau workbook.
     - Connect the Tableau workbook to your SQL Server database.
 
 ### Running the Analysis
@@ -270,17 +269,3 @@ This project has provided valuable insights into the bank's loan portfolio, high
 The visualizations and findings presented in the Power BI and Tableau dashboards offer a clear understanding of the loan portfolio's performance and risk profiles. Moving forward, these insights will guide in optimizing loan offerings, improving financial health assessments, and enhancing customer satisfaction.
 
 Thank you for exploring the bank loan analysis project. We look forward to continuing to leverage data-driven approaches to drive business forward.
-
----
-
-## MIT License
-
-This project is distributed under the [MIT License](https://github.com/virajbhutada/Bank-Loan-Analysis-SQL-PowerBI-Excel-Tableau/blob/main/LICENSE) granting you the freedom to adapt and utilize the codebase as needed.
-
----
-
-### Connect With Me 
-
-**[![LinkedIn](https://img.shields.io/badge/LinkedIn-Viraj%20Bhutada-blue?logo=linkedin)](https://www.linkedin.com/in/virajnbhutada24/) [![Tableau Public](https://img.shields.io/badge/Tableau%20Public-Viraj%20Bhutada-%23003366?logo=tableau)](https://public.tableau.com/app/profile/viraj.bhutada/vizzes) [![GitHub](https://img.shields.io/badge/GitHub-Viraj%20Bhutada-2b3137?logo=github)](https://github.com/virajbhutada)**
-
-
